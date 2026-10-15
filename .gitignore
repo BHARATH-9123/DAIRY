@@ -1,0 +1,27 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Frontend (Node.js & Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Backend (Java / Maven)
+backend/target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Backups
+*.bak
+*.sql.backup
+old_m_dairy_backup.sql
