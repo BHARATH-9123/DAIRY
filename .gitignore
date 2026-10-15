@@ -9,6 +9,7 @@ frontend/.env.local
 
 # Backend (Java / Maven)
 backend/target/
+backend/.env
 *.class
 *.jar
 *.war
